@@ -38,7 +38,7 @@ Categorical: Model, Country
 
 Temporal: Date
 
-![Data Structure]([https://link-to-your-image.com/image.png](https://github.com/KagisoSegobye/BMW-Data-Analysis/blob/7413cfc04e680427e2200aaa143f63fcd54fbabe/Screenshot%20(29).png))
+![Alt text](https://github.com/KagisoSegobye/BMW-Data-Analysis/blob/7413cfc04e680427e2200aaa143f63fcd54fbabe/Screenshot%20(29).png)
 
 ## 3. Executive Summary
 
