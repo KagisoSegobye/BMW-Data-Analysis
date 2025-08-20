@@ -4,6 +4,8 @@
 BMW, as a global automotive leader, generates significant sales data across multiple markets, models, and time periods. This project analyzes historical BMW sales transactions to identify patterns, quantify performance drivers, and uncover opportunities for revenue optimization.
 The dataset contains transaction-level details including sales date, model, price, quantity, and market (country). The analysis focuses on trend discovery, market segmentation, and product performance evaluation, forming the basis for both strategic and operational decision-making.
 
+📥 An interactive Power BI dashboard can be downloaded [here](https://github.com/KagisoSegobye/BMW-Data-Analysis/blob/c5917a70de1a0c9349921198037a6b9ad502422f/BMW%20Dashboard.pbix)
+
 ![BMW Dashboard](https://github.com/KagisoSegobye/BMW-Data-Analysis/blob/7413cfc04e680427e2200aaa143f63fcd54fbabe/Screenshot%20(30).png)
 
 ## 2. Data Structure Overview
